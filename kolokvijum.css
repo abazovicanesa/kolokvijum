@@ -1,0 +1,92 @@
+
+ html{
+    scroll-behavior: smooth;
+ }
+ .navbar{
+    display:flex;
+    color: white;
+    
+  background-color: rgba(0, 0, 0, 0.5);
+  position: sticky;
+  top: 0;
+ }
+ .navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+  }
+  .navbar{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: sticky;
+  top: 0;
+ }
+ .navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+  }
+  .navbar ul li{
+    font-family: century;
+    font-size: 1.1rem;
+    font-weight: bold;
+
+  }
+  .navbar ul li  a{
+    text-decoration: none;
+    color:white;
+    padding:8px 25px;
+    transition: all .5s ease;
+  }
+
+
+
+nav ul li a:hover{
+    color:aqua;
+    padding: 8px 25px;
+    align-items: left;
+    font-weight: bold;
+    justify-content: left; }
+
+    #slike{
+        display: flex;
+        background-color: grey;
+          color:greenyellow;
+          
+          
+      
+      }
+      #intro{
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        padding: 10px;
+        
+      
+      }
+      #intro h2{
+        font-size: 2rem;
+        margin-bottom: 20px;
+        color: greenyellow;
+        
+      }
+      #intro p{
+        color: black;
+        border: 3rem;
+      }
+ 
+    
+      
+      
+
+   
+    
+
+    
+    
+        
+     
+
+    
